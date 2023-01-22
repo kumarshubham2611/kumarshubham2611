@@ -65,6 +65,13 @@
 
 ### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=kumarshubham2611r&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<a href="mailto:kumarshubham26112002@gmail.com">
+  <img align="left" width="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg 
+<a href="https://www.instagram.com/ianupamshekhar/">
+  <img align="left" width="26px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg 
+</a>
           
 <img alt="Page counter" src="https://profile-counter.glitch.me/kumarshubham2611/count.svg">
 
